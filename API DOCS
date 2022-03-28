@@ -1,0 +1,14 @@
+BetChat RESTful API documentation.
+
+Make GET request for all Post from users-->
+https://betsocialchat.herokuapp.com/post
+
+Make POST request to create anew post-->
+https://betsocialchat.herokuapp.com/post/create
+
+Make POST request when a user tries to create an account-->
+https://betsocialchat.herokuapp.com/user/create
+
+Make POST request when a user tries to login-->
+https://betsocialchat.herokuapp.com/user/login
+
